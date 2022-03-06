@@ -1,6 +1,6 @@
 👋🤓 Hi, i’m Nadir,
-🧑‍🎓 Software engineer graduate !
-🌱 I want to specialise on Webapps engineering: 
+🧑‍🎓 Software engineer graduate
+🌱 Currently and ever learning to specialise on Webapps engineering: 
 - Single Page Apps,
 - Progressive Web Apps,
 - Web based native cross-plateform apps.
